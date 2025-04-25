@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="banner.png" alt="ASUR INFILTRATOR BANNER" />
+  <img src="banner.png" alt="Asur Infiltrator Logo" width="900" height="250">
 
 
 # ASUR INFILTRATOR Features
