@@ -1,7 +1,7 @@
 # ASUR INFILTRATOR
 
 <div align="center">
-  <img src="./assets/asur_infiltrator_logo.png" alt="Asur Infiltrator Logo" width="250" height="250">
+  <img src="asur_infiltrator_logo.png" alt="Asur Infiltrator Logo" width="250" height="250">
   <h3>Advanced Security Framework</h3>
   <p>A sophisticated network infiltration and security testing platform</p>
 </div>
