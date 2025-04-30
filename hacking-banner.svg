@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <!-- Dark Background -->
+  <rect width="1200" height="400" fill="#1a1a1a" />
+  
+  <!-- Grid Pattern -->
+  <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+    <rect width="50" height="50" fill="none" stroke="#333" stroke-width="0.5" />
+  </pattern>
+  <rect width="1200" height="400" fill="url(#grid)" opacity="0.3" />
+  
+  <!-- Circuit Board Lines -->
+  <g stroke="#4CAF50" stroke-width="1.5" fill="none">
+    <path d="M0,100 H1200" stroke-dasharray="20,10,5,10" />
+    <path d="M0,300 H1200" stroke-dasharray="20,10,5,10" />
+    <path d="M200,0 V400" stroke-dasharray="15,15" />
+    <path d="M600,0 V400" stroke-dasharray="15,15" />
+    <path d="M1000,0 V400" stroke-dasharray="15,15" />
+  </g>
+  
+  <!-- Nodes/Connecting Points -->
+  <g fill="#4CAF50">
+    <circle cx="200" cy="100" r="5" />
+    <circle cx="600" cy="100" r="5" />
+    <circle cx="1000" cy="100" r="5" />
+    <circle cx="200" cy="300" r="5" />
+    <circle cx="600" cy="300" r="5" />
+    <circle cx="1000" cy="300" r="5" />
+  </g>
+  
+  <!-- Binary Flow Effect -->
+  <g fill="#4CAF50" font-family="monospace" font-size="12">
+    <text x="50" y="50">01001000</text>
+    <text x="150" y="150">01000001</text>
+    <text x="250" y="250">01000011</text>
+    <text x="350" y="350">01001011</text>
+    <text x="450" y="50">01001001</text>
+    <text x="550" y="150">01001110</text>
+    <text x="650" y="250">01000111</text>
+    <text x="750" y="350">01000011</text>
+    <text x="850" y="50">01001111</text>
+    <text x="950" y="150">01010101</text>
+    <text x="1050" y="250">01010010</text>
+    <text x="1150" y="350">01010011</text>
+  </g>
+  
+  <!-- Shields with Lock Icons -->
+  <g transform="translate(250, 150) scale(0.5)">
+    <!-- Shield Shape -->
+    <path d="M100 30 C 60 45, 55 80, 55 130 C 55 150, 75 165, 100 170 C 125 165, 145 150, 145 130 C 145 80, 140 45, 100 30 Z" 
+          fill="none" stroke="#4CAF50" stroke-width="3" />
+    
+    <!-- Lock Icon -->
+    <rect x="82" y="90" width="36" height="30" rx="4" ry="4" fill="#4CAF50" opacity="0.7" />
+    <rect x="78" y="70" width="44" height="30" rx="15" ry="15" fill="none" stroke="#4CAF50" stroke-width="5" />
+  </g>
+  
+  <g transform="translate(850, 150) scale(0.5)">
+    <!-- Shield Shape -->
+    <path d="M100 30 C 60 45, 55 80, 55 130 C 55 150, 75 165, 100 170 C 125 165, 145 150, 145 130 C 145 80, 140 45, 100 30 Z" 
+          fill="none" stroke="#4CAF50" stroke-width="3" />
+    
+    <!-- Lock Icon -->
+    <rect x="82" y="90" width="36" height="30" rx="4" ry="4" fill="#4CAF50" opacity="0.7" />
+    <rect x="78" y="70" width="44" height="30" rx="15" ry="15" fill="none" stroke="#4CAF50" stroke-width="5" />
+  </g>
+  
+  <!-- Main Banner Text -->
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="180" font-size="60" fill="#4CAF50" font-weight="bold" letter-spacing="2">ETHICAL HACKING</text>
+    <text x="600" y="240" font-size="30" fill="#ff5722">Master the Art of Security</text>
+  </g>
+  
+  <!-- Digital Circuit Effect -->
+  <g stroke="#4CAF50" stroke-width="1" fill="none">
+    <path d="M50,20 L50,380 L1150,380 L1150,20" />
+    <path d="M50,200 L1150,200" stroke-dasharray="5,5" />
+  </g>
+  
+  <!-- Animated Pulse Effect -->
+  <circle cx="600" cy="200" r="10" fill="#4CAF50">
+    <animate attributeName="r" values="10;50;10" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite" />
+  </circle>
+</svg> 
