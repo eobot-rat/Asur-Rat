@@ -1,5 +1,18 @@
 # Asur Rat
 
+
+  <p align="center">
+  <a href="https://t.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+
+
 ## Features List
 - SMS ( send, receive )
 - Call ( call log, make a call, call recording)
