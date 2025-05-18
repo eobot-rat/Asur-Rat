@@ -25,6 +25,7 @@
 - Get GPS location
 
 
+
 - control screen (New)
 - bypass black screen of banks app (New)
 - Read , Delete Internal Storage Files
