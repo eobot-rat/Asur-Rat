@@ -1,16 +1,6 @@
 # Asur Rat v3
 
 
-  <p align="center">
-  <a href="https://t.me/asurRat">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/asurRat">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/asurRat">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
 
 
 ## Features List
@@ -61,3 +51,4 @@
 - Call log Added
 - Format Phone
 - Live screen streaming
+
