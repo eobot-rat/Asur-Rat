@@ -1,7 +1,14 @@
 # Asur Rat v3
 
 
+## Donete Us and get Premium version free 
 
+
+*   **BTC**: `bc1q303c2537ka89g6puqtr5au75zx2599p4t06dcp`
+
+*   **USDT**: `0x51DC6f213bB6596B7E5268D954282E94F516864B`
+
+ **TRX**: `TBTjXi2BmmPzvFyJFaU2w59zdKGgmHn8Wy`
 
 ## Features List
 - SMS ( send, receive )
@@ -51,4 +58,5 @@
 - Call log Added
 - Format Phone
 - Live screen streaming
+
 
