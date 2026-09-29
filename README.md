@@ -3,25 +3,22 @@
 ## download hare
 https://github.com/eobot-rat/Red-Devils-premium/releases/tag/V2
 
-## Buy Red Devils premium version ( 1 day trial available )
-
-
-# Selling source code 
-## Red Devils premium 
-
-## Admin panel + serial key panel 
-## Client app or dropper 
+## Contact us for Rat Development and other work 
+<p align="center">
+  <a href="mailto:reddevilspro@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 # DM 👇👇👇👇
 
 <h2 align="center"> JOIN RED DEVILS TEAM</h2>
 <p align="center">
-  <a href="https://t.me/red_devils_pro">
+  <a href="https://t.me/AsurMalware">
     <img src="https://img.shields.io/badge/JOIN-US-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/red_devils_pro">
+  <a href="https://t.me/AsurMalware">
     <img src="https://img.shields.io/badge/JOIN-US-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
 <div align="center">
-  <a href="https://t.me/red_devils_pro">
+  <a href="https://t.me/AsurMalware">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
